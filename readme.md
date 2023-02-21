@@ -1,4 +1,4 @@
-# Relógio Digital
+# MP3-Music
 
 - 👤 Tenho 39 anos e atualmente trabalho como autônomo na área de e-commerce. No entanto, tenho um grande desejo de atuar na área de programação web como programador Full Stack.
 - 📚 Durante os últimos 6 meses, dediquei-me a estudar e aprimorar minhas habilidades tanto em soft skills quanto em hard skills, buscando uma oportunidade na área para adquirir mais conhecimento e trabalhar com o que gosto.
