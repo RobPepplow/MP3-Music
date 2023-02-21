@@ -20,7 +20,13 @@
 
 # Descrição do Projeto:
 
-Bem-vindo ao nosso projeto de MP3-Music, utilizando apenas Html Css e JavaScript
+Bem-vindo ao nosso projeto de MP3-Music
+
+Agradeço por visitar meu projeto. Este é um exemplo simples de como utilizar JavaScript e CSS para criar uma ferramenta para ouvir suas musicas.
+
+Neste projeto, utilizamos HTML, CSS e JavaScript.
+
+Agradeço por testar e avaliar o meu projeto. Estou sempre em busca de melhorias e sugestões para tornar a minha aplicação ainda mais eficiente e útil.
 
 ## Veja Agora No link Abaixo como Ficou o Projeto Final
 
